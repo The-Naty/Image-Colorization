@@ -14,7 +14,7 @@ After installing Python, the following dependencies are needed to be installed
 
 a dataset will be needed to be downloaded. 
 The used dataset in this project is Linnaeus 5
-[Download Link🔗](http://chaladze.com/l5/img/Linnaeus%205%2032X32.rar)
+[Download Link🔗](http://chaladze.com/l5/)
 
 ### User Guide
 After the project environment is successfully ready and the dataset is downloaded, 
